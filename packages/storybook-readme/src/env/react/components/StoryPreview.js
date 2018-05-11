@@ -9,8 +9,7 @@ export default props => (
       padding: '50px 35px',
       border: '1px dashed #e5e5e5',
       backgroundColor: '#ffffff',
-      transition: 'background-color 0.2s',
-      textAlign: 'center',
+      transition: 'background-color 0.2s'
     }}
   >
     {props.children}
