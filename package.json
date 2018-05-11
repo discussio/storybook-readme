@@ -1,5 +1,6 @@
 {
   "name": "storybook-readme",
+  "version": "3.3.0",
   "private": true,
   "description": "React storybook addon to show components README",
   "homepage": "https://github.com/tuchk4/storybook-readme",
